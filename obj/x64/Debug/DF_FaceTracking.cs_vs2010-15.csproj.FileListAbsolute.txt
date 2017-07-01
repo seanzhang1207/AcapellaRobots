@@ -1,0 +1,109 @@
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\bin\x64\Debug\DF_FaceTracking.cs.exe.config
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\bin\x64\Debug\DF_FaceTracking.cs.exe
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\bin\x64\Debug\DF_FaceTracking.cs.pdb
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\bin\x64\Debug\libpxcclr.cs.dll
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs_vs2010-15.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.MainForm.resources
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.Properties.Resources.resources
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs_vs2010-15.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.exe
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.pdb
+C:\Users\CityScope\Desktop\DF_FaceTracking.cs\bin\x64\Debug\DF_FaceTracking.cs.exe.config
+C:\Users\CityScope\Desktop\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.exe
+C:\Users\CityScope\Desktop\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.pdb
+C:\Users\CityScope\Desktop\DF_FaceTracking.cs\bin\x64\Debug\DF_FaceTracking.cs.exe
+C:\Users\CityScope\Desktop\DF_FaceTracking.cs\bin\x64\Debug\DF_FaceTracking.cs.pdb
+C:\Users\CityScope\Desktop\DF_FaceTracking.cs\bin\x64\Debug\libpxcclr.cs.dll
+C:\Users\CityScope\Desktop\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs_vs2010-15.csprojResolveAssemblyReference.cache
+C:\Users\CityScope\Desktop\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.MainForm.resources
+C:\Users\CityScope\Desktop\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.Properties.Resources.resources
+C:\Users\CityScope\Desktop\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs_vs2010-15.csproj.GenerateResource.Cache
+C:\Users\CityScope\Desktop\DF_FaceTracking.cs\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\CityScope\Desktop\DF_FaceTracking.cs\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\CityScope\Documents\work\realsenseCom\bin\x64\Debug\DF_FaceTracking.cs.exe.config
+C:\Users\CityScope\Documents\work\realsenseCom\obj\x64\Debug\DF_FaceTracking.cs.exe
+C:\Users\CityScope\Documents\work\realsenseCom\obj\x64\Debug\DF_FaceTracking.cs.pdb
+C:\Users\CityScope\Documents\work\realsenseCom\bin\x64\Debug\DF_FaceTracking.cs.exe
+C:\Users\CityScope\Documents\work\realsenseCom\bin\x64\Debug\DF_FaceTracking.cs.pdb
+C:\Users\CityScope\Documents\work\realsenseCom\bin\x64\Debug\libpxcclr.cs.dll
+C:\Users\CityScope\Documents\work\realsenseCom\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\CityScope\Documents\work\realsenseCom\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\CityScope\Documents\work\realsenseCom\obj\x64\Debug\DF_FaceTracking.cs_vs2010-15.csprojResolveAssemblyReference.cache
+C:\Users\CityScope\Documents\work\realsenseCom\obj\x64\Debug\DF_FaceTracking.cs.MainForm.resources
+C:\Users\CityScope\Documents\work\realsenseCom\obj\x64\Debug\DF_FaceTracking.cs.Properties.Resources.resources
+C:\Users\CityScope\Documents\work\realsenseCom\obj\x64\Debug\DF_FaceTracking.cs_vs2010-15.csproj.GenerateResource.Cache
+C:\Users\Sean\Desktop\realsenseCom-master\bin\x64\Debug\DF_FaceTracking.cs.exe.config
+C:\Users\Sean\Desktop\realsenseCom-master\bin\x64\Debug\DF_FaceTracking.cs.exe
+C:\Users\Sean\Desktop\realsenseCom-master\bin\x64\Debug\DF_FaceTracking.cs.pdb
+C:\Users\Sean\Desktop\realsenseCom-master\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Sean\Desktop\realsenseCom-master\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Sean\Desktop\realsenseCom-master\obj\x64\Debug\DF_FaceTracking.cs_vs2010-15.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\realsenseCom-master\obj\x64\Debug\DF_FaceTracking.cs.MainForm.resources
+C:\Users\Sean\Desktop\realsenseCom-master\obj\x64\Debug\DF_FaceTracking.cs.Properties.Resources.resources
+C:\Users\Sean\Desktop\realsenseCom-master\obj\x64\Debug\DF_FaceTracking.cs_vs2010-15.csproj.GenerateResource.Cache
+C:\Users\Sean\Desktop\realsenseCom-master\obj\x64\Debug\DF_FaceTracking.cs.exe
+C:\Users\Sean\Desktop\realsenseCom-master\obj\x64\Debug\DF_FaceTracking.cs.pdb
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\bin\windows\x64\avcodec-57.dll
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\bin\windows\x64\avformat-57.dll
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\bin\windows\x64\avutil-55.dll
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\bin\windows\x64\swresample-2.dll
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\bin\windows\x86\avcodec-57.dll
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\bin\windows\x86\avformat-57.dll
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\bin\windows\x86\avutil-55.dll
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\bin\windows\x86\swresample-2.dll
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\bzip2.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\fontconfig.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\freetype.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\frei0r.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\gme.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\gnutls.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\lame.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\libass.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\libbluray.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\libbs2b.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\libcaca.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\libgsm.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\libiconv.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\libilbc.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\libmfx.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\libmodplug.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\libtheora.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\libvorbis.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\libvpx.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\libwebp.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\opencore-amr.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\openjpeg.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\opus.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\rtmpdump.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\schroedinger.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\snappy.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\soxr.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\speex.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\twolame.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\vid.stab.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\vo-amrwbenc.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\wavpack.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\x264.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\x265.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\xavs.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\xvid.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\xz.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\zimg.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\licenses\zlib.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\FFmpeg\src\sources.txt
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\DF_FaceTracking.cs.exe.config
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\DF_FaceTracking.cs.exe
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\DF_FaceTracking.cs.pdb
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\CSCore.dll
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\CSCore.Ffmpeg.dll
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\libpxcclr.cs.dll
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\CSCore.xml
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\CSCore.Ffmpeg.xml
+C:\Users\Sean\Desktop\AcapellaRobots\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Sean\Desktop\AcapellaRobots\obj\x64\Debug\DF_FaceTracking.cs_vs2010-15.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\AcapellaRobots\obj\x64\Debug\DF_FaceTracking.cs.MainForm.resources
+C:\Users\Sean\Desktop\AcapellaRobots\obj\x64\Debug\DF_FaceTracking.cs.Properties.Resources.resources
+C:\Users\Sean\Desktop\AcapellaRobots\obj\x64\Debug\DF_FaceTracking.cs_vs2010-15.csproj.GenerateResource.Cache
+C:\Users\Sean\Desktop\AcapellaRobots\obj\x64\Debug\DF_FaceTracking.cs.exe
+C:\Users\Sean\Desktop\AcapellaRobots\obj\x64\Debug\DF_FaceTracking.cs.pdb
